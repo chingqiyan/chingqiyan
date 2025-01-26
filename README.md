@@ -11,7 +11,16 @@ I am a student from UTM studying Computer Science ( Network and Security).
 * ✉️  You can contact me at [chingqiyan02@gmail.com](mailto:chingqiyan02@gmail.com)
 * 🧠  I'm learning at UTM.
 * 🤝  I'm open to collaborating on any project.
+* 📄 My E-portfolio Website [CHING QI YAN](https://chingqiyan.github.io/) 👈
 * ⚡  haha
+
+### Education📖
+| Level | Place |
+| ----------- | ----------- |
+| Primary School | SJK(C) CHUNG SHAN |
+| Secondary School | SMJK SAM TET |
+| Foundation | UTM SPACE in Kuala Lumpur |
+| Degree | UNIVERSITY TECHNOLOGY MALAYSIA |
 
 ### Skills
 
